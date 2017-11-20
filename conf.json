@@ -2,7 +2,11 @@
 	"redis": {
 		"config": {
 			"minconns": 1001100110011001,
-			"asds": "alabala"
+			"asds": "alabala",
+			"tralala": {
+				"tra": 123,
+				"lala": 456
+			}
 		}
 	}
 }
