@@ -1,7 +1,8 @@
 {
 	"redis": {
 		"config": {
-			"minconns": 10011001
+			"minconns": 1001100110011001,
+			"asds": "alabala"
 		}
 	}
 }
