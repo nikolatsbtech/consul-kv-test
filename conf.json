@@ -1,7 +1,7 @@
 {
 	"redis": {
 		"config": {
-			"minconns": 9999
+			"minconns": 1001
 		}
 	}
 }
